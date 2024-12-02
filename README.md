@@ -33,7 +33,8 @@ Statistical Insights: Rescood The app also provides a detailed overview of last 
 
 # Document and Video
 PPT - https://docs.google.com/presentation/d/1GVbLPz0QkbaN5umhOxDmNydStpyqxmuz/edit?usp=drive_link&ouid=112611823807678137614&rtpof=true&sd=true
-Video - 
+
+Video - https://drive.google.com/file/d/1g-UX_7BFngchPLcU6MCkr5P3qEbU3o4L/view?usp=drivesdk
 
 
 
