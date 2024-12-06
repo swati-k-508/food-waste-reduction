@@ -181,4 +181,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = FoodApp(root)
     root.mainloop()
-s
+
